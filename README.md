@@ -14,7 +14,7 @@
 
 ### [10월 3째주, 5주차] : 딥러닝 기초1
 
-2025.10.21 오늘 배운 내용 정리 [상세 내역 링크](https://qkrwltnzheld.tistory.com/88), [[상세 내역 링크] (https://qkrwltnzheld.tistory.com/89)]
+2025.10.21 오늘 배운 내용 정리 [상세 내역 링크](https://qkrwltnzheld.tistory.com/88), ([상세 내역 링크] (https://qkrwltnzheld.tistory.com/89))
 
 2025.10.22 오늘 배운 내용 정리 (상세 내역 링크)
 
